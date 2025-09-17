@@ -11,7 +11,7 @@ I’m always open to connecting, sharing ideas, and collaborating on projects—
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arda can süren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda can süren" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arda-can-süren-52605a314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda can süren" height="30" width="40" /></a>
 </p>
 
 
@@ -22,4 +22,7 @@ I’m always open to connecting, sharing ideas, and collaborating on projects—
 ---
 [![](https://visitcount.itsvg.in/api?id=Arda24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaa24&show_icons=true&locale=en&layout=compact" alt="ardaa24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaa24&show_icons=true&locale=en" alt="ardaa24" /></p>
