@@ -23,6 +23,6 @@ I’m always open to connecting, sharing ideas, and collaborating on projects—
 [![](https://visitcount.itsvg.in/api?id=Arda24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaa24&show_icons=true&locale=en&layout=compact" alt="ardaa24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ardaa24&show_icons=true&locale=en&layout=compact" alt="ardaa24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaa24&show_icons=true&locale=en" alt="ardaa24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ardaa24&show_icons=true&locale=en" alt="ardaa24" /></p>
