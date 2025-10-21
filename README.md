@@ -24,6 +24,6 @@ I’m always open to connecting, sharing ideas, and collaborating on projects—
 
 
 <h3 align="left">💻My exp:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ardaa24&show_icons=true&locale=en&layout=compact" alt="ardaa24" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Ardaa24&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaa24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="ardaa24" /></p>
 
 
