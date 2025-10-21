@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Arda</h1>
 <p>I’m Arda, a Computer Programming student with a strong focus on software development, particularly in web design. My goal is to create high-quality, user-centered websites that are responsive and deliver seamless experiences across all devices.
 
-I work with HTML, CSS, Bootstrap, React, and JavaScript, and I’m continuously improving my skills to stay up to date with modern web technologies. In addition to web development, I also have experience in building desktop applications using C#.
+I work with HTML, CSS, Bootstrap and JavaScript. I’m continuously improving my skills to stay up to date with modern web technologies. In addition to web development, I also have experience in building desktop applications using C#. 
 
 I’m always open to connecting, sharing ideas, and collaborating on projects—feel free to reach out! 💪</p>
 
