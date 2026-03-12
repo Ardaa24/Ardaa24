@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arda24
+# Hi 👋, I'm Arda
 
 ### A passionate developer
 
