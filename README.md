@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arda
 
-### A passionate developer
+### Full focus
 
 <p>I’m Arda, a Computer Programming student focused on software development,
 particularly web design and C# desktop applications.
