@@ -1,22 +1,23 @@
-# Hi 👋, I'm Arda
+# Merhaba, Ben Arda Can Süren! 👋
 
-### Full Focus Developer
+Tarsus Üniversitesi Bilgisayar Programcılığı öğrencisi ve Berdan Cıvata'da Full Stack Developer Intern olarak görev yapan bir yazılım geliştirici adayıyım. Kurumsal iş süreçlerini dijitalleştiren, yüksek performanslı ve sürdürülebilir sistemler tasarlıyorum.
 
-<p>I am a Computer Programming student at Tarsus University and a prospective Full Stack developer at Berdan Civata, involved in professional projects.
+- 🛠️ Şu anda **Angular** ve **.NET API** kullanarak endüstriyel performans raporlama sistemleri üzerinde çalışıyorum.
+- 📐 Kod kalitesine önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD** mimarilerini uyguluyorum.
+- 🤖 Yapay zeka, bilgisayarlı görü ve endüstriyel dijital dönüşüm süreçleriyle yakından ilgileniyorum.
 
-I bridge the gap between academic theory and industrial practice by adopting corporate IT standards and Clean Code principles. Through my leadership role in TÜBİTAK 2209-A (The Scientific and Technological Research Council of Turkey) projects, I have gained significant experience in project management, planning, and execution.
+### 🚀 Öne Çıkan Projelerim
+* **PingWatch:** Real-time uptime ve ağ izleme dashboard uygulaması (C# & AJAX).
+* **AI & Deepfake Photo Detector:** ResNet18 modeli ile sahte görsel tespiti (Python & Deep Learning).
+* **Etiket Yönetim Sistemi:** WinForms mimarisinden .NET API & Angular'a taşınmış canlı ERP modülü.
 
-Technical Competencies:
+### 🛠️ Teknolojiler & Araçlar
+* **Diller:** C#, TypeScript, SQL, Python, HTML5, CSS3
+* **Frameworkler:** .NET (Core/API), Angular, Entity Framework Core, Dapper
+* **Mimari:** CQRS, Domain Driven Design (DDD), Repository Pattern, Dependency Injection
+* **Araçlar:** Git, GitHub, Visual Studio, VS Code
 
-Programming: C# (WinForms, .NET MVC), Python.
-
-AI & Deep Learning: Image processing and model development using ResNet18 architecture.
-
-Database Management: Data organization and optimization with MSSQL.
-
-Version Control: Professional workflow management using Git & GitHub.
-
-My career objective is to contribute to defense industry projects by taking responsibility for system security and software development. I am driven by the goal of building high-performance, secure, and scalable software solutions while maintaining a commitment to continuous professional growth.</p>
+📫 İletişim:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Ardaa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ardaa24" height="30" width="40" /></a>
