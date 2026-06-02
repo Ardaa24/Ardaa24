@@ -77,10 +77,8 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ardaa24&show_icons=true&theme=react&border_radius=10" alt="Arda's GitHub Stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaa24&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
+  <!-- Kesintisiz çalışan, kararlı yeni nesil metrik kartları -->
+  <img src="https://github-readme-metrics.vercel.app/api?username=Ardaa24&theme=dark" alt="Arda's Metrics" />
 </p>
 
 <br />
