@@ -1,9 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0078D4&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Arda+Can+S%C3%BCren!;Software+Engineering+Student;Clean+Code+%26+DDD+Enthusiast" alt="Typing Effect" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ardaa24&label=Profil+Ziyaret%C3%A7isi&color=0078d4&style=flat-square" alt="Ziyaretçi Sayısı" />
-  </p>
+  <!-- UI Açısından Zengin, Custom SVG Terminal Banner -->
+  <svg width="100%" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .title { font: bold 50px 'Fira Code', monospace; fill: url(#gradient); }
+      .subtitle { font: 400 16px 'Fira Code', monospace; fill: #8892B0; letter-spacing: 2px; }
+      .term-text { font: 14px monospace; fill: #4AF626; }
+    </style>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0078D4" />
+        <stop offset="50%" stop-color="#512BD4" />
+        <stop offset="100%" stop-color="#DD0031" />
+      </linearGradient>
+      <rect id="bg" width="800" height="180" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+    </defs>
+    <use href="#bg" />
+    <!-- Terminal Window Buttons -->
+    <circle cx="25" cy="25" r="6" fill="#FF5F56" />
+    <circle cx="45" cy="25" r="6" fill="#FFBD2E" />
+    <circle cx="65" cy="25" r="6" fill="#27C93F" />
+    <!-- Banner Content -->
+    <text x="50%" y="85" text-anchor="middle" class="title">ARDA</text>
+    <text x="50%" y="130" text-anchor="middle" class="subtitle">SOFTWARE ENGINEERING STUDENT • CLEAN CODE & DDD</text>
+    <text x="35" y="160" class="term-text">arda@dev:~$$ dotnet run --project architecture</text>
+  </svg>
 </div>
 
 <br />
@@ -42,12 +62,16 @@
 
 ## 🛠️ Teknolojiler & Araçlar
 
-### 💻 Geliştirme Dilleri & Frameworkler
+### 💻 Geliştirme Dilleri & Frontend Teknolojileri
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET_Core%20%2F%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
@@ -63,6 +87,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
