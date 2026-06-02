@@ -1,4 +1,4 @@
-# Merhaba, Ben Arda Can! 👋
+# Merhaba, Ben Arda! 👋
 
 Tarsus Üniversitesi Bilgisayar Programcılığı öğrencisi ve Berdan Cıvata'da Full Stack Developer Intern olarak görev yapan bir yazılım geliştirici adayıyım. Kurumsal iş süreçlerini dijitalleştiren, yüksek performanslı ve sürdürülebilir sistemler tasarlıyorum.
 
