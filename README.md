@@ -72,16 +72,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-<br />
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <!-- Kesintisiz çalışan, kararlı yeni nesil metrik kartları -->
-  <img src="https://github-readme-metrics.vercel.app/api?username=Ardaa24&theme=dark" alt="Arda's Metrics" />
-</p>
-
-<br />
 
 ## 📫 İletişim
 
