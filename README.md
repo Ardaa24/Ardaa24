@@ -1,29 +1,9 @@
 <div align="center">
-  <!-- UI Açısından Zengin, Custom SVG Terminal Banner -->
-  <svg width="100%" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .title { font: bold 50px 'Fira Code', monospace; fill: url(#gradient); }
-      .subtitle { font: 400 16px 'Fira Code', monospace; fill: #8892B0; letter-spacing: 2px; }
-      .term-text { font: 14px monospace; fill: #4AF626; }
-    </style>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0078D4" />
-        <stop offset="50%" stop-color="#512BD4" />
-        <stop offset="100%" stop-color="#DD0031" />
-      </linearGradient>
-      <rect id="bg" width="800" height="180" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-    </defs>
-    <use href="#bg" />
-    <!-- Terminal Window Buttons -->
-    <circle cx="25" cy="25" r="6" fill="#FF5F56" />
-    <circle cx="45" cy="25" r="6" fill="#FFBD2E" />
-    <circle cx="65" cy="25" r="6" fill="#27C93F" />
-    <!-- Banner Content -->
-    <text x="50%" y="85" text-anchor="middle" class="title">ARDA</text>
-    <text x="50%" y="130" text-anchor="middle" class="subtitle">SOFTWARE ENGINEERING STUDENT • CLEAN CODE & DDD</text>
-    <text x="35" y="160" class="term-text">arda@dev:~$$ dotnet run --project architecture</text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=750&height=50&lines=ARDA" alt="Arda" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=750&height=30&lines=SOFTWARE+ENGINEERING+STUDENT+%E2%80%A2+CLEAN+CODE+%26+DDD" alt="Subtitle" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=999999&color=4AF626&center=true&vCenter=true&width=750&height=30&lines=arda%40dev%3A~%24+dotnet+run+--project+architecture" alt="Terminal Command" />
 </div>
 
 <br />
@@ -31,7 +11,7 @@
 ## 👤 Hakkımda
 
 - 🛠️ Şu anda **Angular** ve **.NET API** kullanarak endüstriyel performans raporlama sistemleri üzerinde çalışıyorum.
-- 📐 Kod kalitesine en üst düzeyde önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD (Domain-Driven Design)** mimarilerini titizlikle uyguluyorum.
+- 📐 Kod kalitesine en üst düzeyde önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD (Domain-Driven Design)** mimarilerini uyguluyorum.
 - 🤖 Yapay zeka, bilgisayarlı görü ve endüstriyel dijital dönüşüm süreçleriyle yakından ilgileniyorum.
 
 <br />
@@ -98,6 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ardaa24&show_icons=true&theme=react&border_radius=10" alt="Arda's GitHub Stats" />
+  <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaa24&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
 </p>
