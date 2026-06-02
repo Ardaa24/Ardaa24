@@ -1,30 +1,91 @@
-# Merhaba, Ben Arda! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0078D4&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Arda+Can+S%C3%BCren!;Software+Engineering+Student;Clean+Code+%26+DDD+Enthusiast" alt="Typing Effect" />
 
-Tarsus Üniversitesi Bilgisayar Programcılığı öğrencisi ve Berdan Cıvata'da Full Stack Developer Intern olarak görev yapan bir yazılım geliştirici adayıyım. Kurumsal iş süreçlerini dijitalleştiren, yüksek performanslı ve sürdürülebilir sistemler tasarlıyorum.
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ardaa24&label=Profil+Ziyaret%C3%A7isi&color=0078d4&style=flat-square" alt="Ziyaretçi Sayısı" />
+  </p>
+</div>
+
+<br />
+
+## 👤 Hakkımda
 
 - 🛠️ Şu anda **Angular** ve **.NET API** kullanarak endüstriyel performans raporlama sistemleri üzerinde çalışıyorum.
-- 📐 Kod kalitesine önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD** mimarilerini uyguluyorum.
+- 📐 Kod kalitesine en üst düzeyde önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD (Domain-Driven Design)** mimarilerini titizlikle uyguluyorum.
 - 🤖 Yapay zeka, bilgisayarlı görü ve endüstriyel dijital dönüşüm süreçleriyle yakından ilgileniyorum.
 
-### 🚀 Öne Çıkan Projelerim
-* **PingWatch:** Real-time uptime ve ağ izleme dashboard uygulaması (C# & AJAX).
-* **AI & Deepfake Photo Detector:** ResNet18 modeli ile sahte görsel tespiti (Python & Deep Learning).
-* **Etiket Yönetim Sistemi:** WinForms mimarisinden .NET API & Angular'a taşınmış canlı ERP modülü.
+<br />
 
-### 🛠️ Teknolojiler & Araçlar
-* **Diller:** C#, TypeScript, SQL, Python, HTML5, CSS3
-* **Frameworkler:** .NET (Core/API), Angular, Entity Framework Core, Dapper
-* **Mimari:** CQRS, Domain Driven Design (DDD), Repository Pattern, Dependency Injection
-* **Araçlar:** Git, GitHub, Visual Studio, VS Code
+## 🚀 Öne Çıkan Projelerim
 
-📫 İletişim:
-<h3 align="left">Connect with me:</h3>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🌐 PingWatch</h4>
+      <p>Real-time uptime ve ağ izleme dashboard uygulaması.</p>
+      <code>C#</code> <code>AJAX</code> <code>Network</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>👁️ AI & Photo Detector</h4>
+      <p>ResNet18 mimarisi ile geliştirilmiş sahte görsel tespiti.</p>
+      <code>Python</code> <code>Deep Learning</code> <code>AI</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏭 Etiket Yönetim Sistemi</h4>
+      <p>WinForms mimarisinden .NET API & Angular'a taşınmış canlı ERP modülü.</p>
+      <code>.NET API</code> <code>Angular</code> <code>ERP</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 🛠️ Teknolojiler & Araçlar
+
+### 💻 Geliştirme Dilleri & Frameworkler
 <p align="left">
-<a href="https://github.com/Ardaa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ardaa24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arda-can-süren-52605a314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda-can-süren-52605a314" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_Core%20%2F%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ardaa24" alt="Ardaa24" /></a> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
+### 📐 Mimari Yaklaşımlar & ORM
+<p align="left">
+  <img src="https://img.shields.io/badge/Architecture-CQRS%20%7C%20DDD-0052CC?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Design_Patterns-SOLID%20%7C%20DI-008080?style=flat-square" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/ORM-EF_Core%20%7C%20Dapper-4E5B92?style=flat-square" alt="ORM" />
+</p>
 
+### 🔧 Araçlar & Ortamlar
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+<br />
+
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardaa24&show_icons=true&theme=react&border_radius=10" alt="Arda's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaa24&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
+</p>
+
+<br />
+
+## 📫 İletişim
+
+<p align="left">
+  <a href="https://linkedin.com/in/arda-can-süren-52605a314" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ardaa24" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
