@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=750&height=50&lines=ARDA" alt="Arda" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=750&height=50&lines=ARDA24" alt="Arda" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=750&height=30&lines=JR.SOFTWARE+DEVELOPER" alt="Subtitle" />
 
