@@ -10,7 +10,7 @@
 
 ## 👤 Hakkımda
 
-- 🛠️ Şu anda **Angular** ve **.NET API** kullanarak endüstriyel performans raporlama sistemleri üzerinde çalışıyorum.
+- 🛠️  **Angular** ve **.NET API** kullanarak endüstriyel performans raporlama sistemleri üzerinde çalışıyorum.
 - 📐 Kod kalitesine en üst düzeyde önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD (Domain-Driven Design)** mimarilerini uyguluyorum.
 - 🤖 Yapay zeka, bilgisayarlı görü ve endüstriyel dijital dönüşüm süreçleriyle yakından ilgileniyorum.
 
