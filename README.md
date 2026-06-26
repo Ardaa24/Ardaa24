@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=750&height=50&lines=ARDA" alt="Arda" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=750&height=30&lines=SOFTWARE+DEVELOPER+%E2%80%A2+CLEAN+CODE+%26+DDD" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=750&height=30&lines=JR.SOFTWARE+DEVELOPER" alt="Subtitle" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=999999&color=4AF626&center=true&vCenter=true&width=750&height=30&lines=arda%40dev%3A~%24+dotnet+run+--project+architecture" alt="Terminal Command" />
 </div>
