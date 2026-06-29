@@ -16,29 +16,33 @@
 
 <br />
 
-## 🚀 Öne Çıkan Projelerim
-
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🌐 PingWatch</h4>
-      <p>Real-time uptime ve ağ izleme dashboard uygulaması.</p>
-      <code>C#</code> <code>AJAX</code> <code>Network</code>
+      <h4>🏥 Hospital AR Navigation</h4>
+      <p>WebXR ve Three.js tabanlı, hastane içi navigasyon ve artırılmış gerçeklik (AR) prototipi.</p>
+      <a href="https://github.com/Ardaa24/Hospital_AR">GitHub Repo</a>
+      <br><br>
+      <code>WebXR</code> <code>Three.js</code> <code>AR</code>
     </td>
     <td width="33%" valign="top">
-      <h4>👁️ AI & Photo Detector</h4>
-      <p>ResNet18 mimarisi ile geliştirilmiş sahte görsel tespiti.</p>
-      <code>Python</code> <code>Deep Learning</code> <code>AI</code>
+      <h4>📊 İşçi Paketleme Performans Ölçüm Sistemi</h4>
+      <p>Üretim sahası personel verimlilik analizi ve üst yönetim raporlama sistemi.</p>
+      <code>CQRS</code> <code>DDD</code> <code>.NET API</code>
     </td>
     <td width="33%" valign="top">
-      <h4>🏭 Etiket Yönetim Sistemi</h4>
-      <p>WinForms mimarisinden .NET API & Angular'a taşınmış canlı ERP modülü.</p>
-      <code>.NET API</code> <code>Angular</code> <code>ERP</code>
+      <h4>🏭 Etiket Yönetim Sistemi (Modernizasyon)</h4>
+      <p>Legacy Delphi WinForm sisteminin, .NET API ve Angular modern mimarisine taşınması.</p>
+      <code>.NET API</code> <code>Angular</code> <code>Legacy Migration</code>
     </td>
   </tr>
 </table>
 
 <br />
+
+### 🛠️ Proje Detayları & Yaklaşımım
+* **Performans Ölçüm Sistemi:** Üretim sahasındaki verimlilik süreçlerini uçtan uca takip etmek ve analiz etmek amacıyla geliştirilmiştir. Proje genelinde karmaşıklığı azaltmak ve yüksek veri tutarlılığı sağlamak için **CQRS (Command Query Responsibility Segregation)** ve **Domain-Driven Design (DDD)** mimari desenlerini aktif olarak uyguladım.
+* **Etiket Yönetim Sistemi:** Kurumsal bir ERP ekosistemi içerisinde yer alan, Delphi WinForm tabanlı eski sistemin; modern, sürdürülebilir ve ölçeklenebilir bir web mimarisine (Angular & .NET) geçiş sürecini yönettim.
 
 ## 🛠️ Teknolojiler & Araçlar
 
