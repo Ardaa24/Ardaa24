@@ -16,33 +16,50 @@
 
 <br />
 
+## 🚀 Öne Çıkan Projelerim
+
 <table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🌐 PingWatch</h4>
+      <p>Real-time uptime ve ağ izleme dashboard uygulaması.</p>
+      <code>C#</code> <code>AJAX</code> <code>Network</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>👁️ AI & Photo Detector</h4>
+      <p>ResNet18 mimarisi ile geliştirilmiş sahte görsel tespiti.</p>
+      <code>Python</code> <code>Deep Learning</code> <code>AI</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏭 Etiket Yönetim Sistemi</h4>
+      <p>Legacy Delphi WinForm sisteminin .NET API & Angular modern mimarisine taşınması.</p>
+      <code>.NET API</code> <code>Angular</code> <code>ERP</code>
+    </td>
+  </tr>
   <tr>
     <td width="33%" valign="top">
       <h4>🏥 Hospital AR Navigation</h4>
       <p>WebXR ve Three.js tabanlı, hastane içi navigasyon ve artırılmış gerçeklik (AR) prototipi.</p>
-      <a href="https://github.com/Ardaa24/Hospital_AR">GitHub Repo</a>
-      <br><br>
       <code>WebXR</code> <code>Three.js</code> <code>AR</code>
     </td>
     <td width="33%" valign="top">
       <h4>📊 İşçi Paketleme Performans Ölçüm Sistemi</h4>
-      <p>Üretim sahası personel verimlilik analizi ve üst yönetim raporlama sistemi.</p>
+      <p>Üretim sahası verimlilik analizi ve üst yönetim raporlama sistemi.</p>
       <code>CQRS</code> <code>DDD</code> <code>.NET API</code>
     </td>
     <td width="33%" valign="top">
-      <h4>🏭 Etiket Yönetim Sistemi (Modernizasyon)</h4>
-      <p>Legacy Delphi WinForm sisteminin, .NET API ve Angular modern mimarisine taşınması.</p>
-      <code>.NET API</code> <code>Angular</code> <code>Legacy Migration</code>
+      <h4>🛠️ Daha Fazlası</h4>
+      <p>Detaylar ve diğer projeler için GitHub repolarımı inceleyebilirsiniz.</p>
+      <a href="https://github.com/Ardaa24">GitHub Profili</a>
     </td>
   </tr>
 </table>
 
 <br />
 
-### 🛠️ Proje Detayları & Yaklaşımım
-* **Performans Ölçüm Sistemi:** Üretim sahasındaki verimlilik süreçlerini uçtan uca takip etmek ve analiz etmek amacıyla geliştirilmiştir. Proje genelinde karmaşıklığı azaltmak ve yüksek veri tutarlılığı sağlamak için **CQRS (Command Query Responsibility Segregation)** ve **Domain-Driven Design (DDD)** mimari desenlerini aktif olarak uyguladım.
-* **Etiket Yönetim Sistemi:** Kurumsal bir ERP ekosistemi içerisinde yer alan, Delphi WinForm tabanlı eski sistemin; modern, sürdürülebilir ve ölçeklenebilir bir web mimarisine (Angular & .NET) geçiş sürecini yönettim.
+### 🏗️ Teknik Yaklaşım ve Mimari Deneyim
+* **İşçi Paketleme Performans Ölçüm Sistemi:** Üretim sahasındaki personellerin verimlilik süreçlerini takip etmek, analiz etmek ve üst yönetime raporlamak amacıyla geliştirilen sistemin mimari ve kodlama süreçlerinde aktif rol aldım. Proje genelinde karmaşıklığı azaltmak ve veri tutarlılığını sağlamak adına **CQRS (Command Query Responsibility Segregation)** ve **Domain-Driven Design (DDD)** yaklaşımlarını uyguladım.
+* **Etiket Yönetim Sistemi:** Kurumsal bir ERP ekosisteminde çalışan eski **Delphi WinForm** tabanlı sistemi, modern .NET API ve Angular mimarisine başarıyla taşıyarak sistemin sürdürülebilirliğini sağladım.
 
 ## 🛠️ Teknolojiler & Araçlar
 
