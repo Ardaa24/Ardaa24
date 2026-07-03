@@ -50,7 +50,7 @@
     <td width="33%" valign="top">
       <h4>🛠️ Daha Fazlası</h4>
       <p>Detaylar ve diğer projeler için GitHub repolarımı inceleyebilirsiniz.</p>
-      <a href="https://github.com/Ardaa24">GitHub Profili</a>
+      <a href="https://github.com/repos">GitHub Profili</a>
     </td>
   </tr>
 </table>
