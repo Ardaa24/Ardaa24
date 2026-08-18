@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=750&height=50&lines=ARDA24" alt="Arda" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=750&height=30&lines=JR.SOFTWARE+DEVELOPER" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8892B0&center=true&vCenter=true&width=750&height=30&lines=FULL-STACK+SOFTWARE+DEVELOPER" alt="Subtitle" />
 
 </div>
 
@@ -9,9 +9,9 @@
 
 ## 👤 Hakkımda
 
-- 🛠️  **Angular** ve **.NET API** kullanarak endüstriyel performans raporlama sistemleri üzerinde çalışıyorum.
-- 📐 Kod kalitesine en üst düzeyde önem veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD (Domain-Driven Design)** mimarilerini uyguluyorum.
-- 🤖 Yapay zeka, bilgisayarlı görü ve endüstriyel dijital dönüşüm süreçleriyle yakından ilgileniyorum.
+- 💻 **Full-Stack Geliştirici** olarak modern web teknolojileri, kurumsal ERP çözümleri ve performans raporlama sistemleri geliştiriyorum.
+- 📐 Kod kalitesine ve sürdürülebilirliğe öncelik veriyor; projelerimde **SOLID, Clean Code, CQRS** ve **DDD (Domain-Driven Design)** mimarilerini uyguluyorum.
+- 🚀 Backend tarafında **.NET / C#**, frontend tarafında ise **Angular** ekosistemiyle ölçeklenebilir uygulamalar tasarlıyorum.
 
 <br />
 
@@ -20,66 +20,59 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🌐 PingWatch</h4>
-      <p>Real-time uptime ve ağ izleme dashboard uygulaması.</p>
-      <code>C#</code> <code>AJAX</code> <code>Network</code>
+      <h4>🏭 FasOn (Fason Takip ERP)</h4>
+      <p>Tekstil fason üretim süreçlerini, atölye takibini ve sevkiyat operasyonlarını yöneten kurumsal web tabanlı ERP çözümü.</p>
+      <code>.NET API</code> <code>Angular</code> <code>SQL Server</code>
     </td>
     <td width="33%" valign="top">
-      <h4>👁️ AI & Photo Detector</h4>
-      <p>ResNet18 mimarisi ile geliştirilmiş sahte görsel tespiti.</p>
-      <code>Python</code> <code>Deep Learning</code> <code>AI</code>
+      <h4>🏐 Set24 (Spor Okulu Takip)</h4>
+      <p>Spor kulüpleri için geliştirilen; öğrenci, yoklama, aidat ve antrenman programı yönetim platformu.</p>
+      <code>.NET Core</code> <code>ASP.NET</code> <code>Entity Framework</code>
     </td>
     <td width="33%" valign="top">
-      <h4>🏭 Etiket Yönetim Sistemi</h4>
-      <p>Legacy Delphi WinForm sisteminin .NET API & Angular modern mimarisine taşınması.</p>
+      <h4>📦 Etiket Yönetim Sistemi</h4>
+      <p>Legacy Delphi WinForm sisteminin modern .NET API ve Angular mimarisine başarılı entegrasyonu ve optimizasyonu.</p>
       <code>.NET API</code> <code>Angular</code> <code>ERP</code>
     </td>
   </tr>
   <tr>
+    <td width="33%" valign="top">
+      <h4>📊 İşçi Performans Ölçüm</h4>
+      <p>Üretim sahası verimlilik analizi ve üst yönetim için CQRS & DDD prensipleriyle geliştirilmiş raporlama sistemi.</p>
+      <code>CQRS</code> <code>DDD</code> <code>SQL Server</code>
+    </td>
     <td width="33%" valign="top">
       <h4>🏥 Hospital AR Navigation</h4>
       <p>WebXR ve Three.js tabanlı, hastane içi navigasyon ve artırılmış gerçeklik (AR) prototipi.</p>
       <code>WebXR</code> <code>Three.js</code> <code>AR</code>
     </td>
     <td width="33%" valign="top">
-      <h4>📊 İşçi Paketleme Performans Ölçüm Sistemi</h4>
-      <p>Üretim sahası verimlilik analizi ve üst yönetim raporlama sistemi.</p>
-      <code>CQRS</code> <code>DDD</code> <code>.NET API</code>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛠️ Daha Fazlası</h4>
-      <p>Detaylar ve diğer projeler için GitHub repolarımı inceleyebilirsiniz.</p>
-      <a href="https://github.com/repos">GitHub Profili</a>
+      <h4>🌐 Diğer Projeler</h4>
+      <p>Tüm açık kaynak çalışmalarım ve detaylar için GitHub profilimi inceleyebilirsiniz.</p>
+      <a href="https://github.com/Ardaa24?tab=repositories">GitHub Repoları</a>
     </td>
   </tr>
 </table>
 
 <br />
 
-### 🏗️ Teknik Yaklaşım ve Mimari Deneyim
-* **İşçi Paketleme Performans Ölçüm Sistemi:** Üretim sahasındaki personellerin verimlilik süreçlerini takip etmek, analiz etmek ve üst yönetime raporlamak amacıyla geliştirilen sistemin mimari ve kodlama süreçlerinde aktif rol aldım. Proje genelinde karmaşıklığı azaltmak ve veri tutarlılığını sağlamak adına **CQRS (Command Query Responsibility Segregation)** ve **Domain-Driven Design (DDD)** yaklaşımlarını uyguladım.
-* **Etiket Yönetim Sistemi:** Kurumsal bir ERP ekosisteminde çalışan eski **Delphi WinForm** tabanlı sistemi, modern .NET API ve Angular mimarisine başarıyla taşıyarak sistemin sürdürülebilirliğini sağladım.
-
 ## 🛠️ Teknolojiler & Araçlar
 
-### 💻 Geliştirme Dilleri & Frontend Teknolojileri
+### 💻 Yazılım Dilleri & Ekosistem
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET_Core%20%2F%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 📐 Mimari Yaklaşımlar & ORM
+### 📐 Mimari Yaklaşımlar & Veritabanı
 <p align="left">
   <img src="https://img.shields.io/badge/Architecture-CQRS%20%7C%20DDD-0052CC?style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Design_Patterns-SOLID%20%7C%20DI-008080?style=flat-square" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Design_Patterns-SOLID%20%7C%20Clean%20Code-008080?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/ORM-EF_Core%20%7C%20Dapper-4E5B92?style=flat-square" alt="ORM" />
 </p>
 
@@ -89,9 +82,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IIS-0078D7?style=flat-square&logo=iis&logoColor=white" alt="IIS" />
 </p>
-
 
 ## 📫 İletişim
 
