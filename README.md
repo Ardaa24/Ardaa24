@@ -27,7 +27,7 @@
     <td width="33%" valign="top">
       <h4>🏐 Set24 (Spor Okulu Takip)</h4>
       <p>Spor kulüpleri için geliştirilen; öğrenci, yoklama, aidat ve antrenman programı yönetim platformu.</p>
-      <code>.NET Core</code> <code>ASP.NET</code> <code>Entity Framework</code>
+      <code>.NET Core</code> <code>Vue.JS</code> <code>Entity Framework</code>
     </td>
     <td width="33%" valign="top">
       <h4>📦 Etiket Yönetim Sistemi</h4>
