@@ -2,25 +2,24 @@
 
 **Full-Stack Software Developer** · .NET & Angular
 
-Kurumsal ERP çözümleri, raporlama sistemleri ve ölçeklenebilir web uygulamaları geliştiriyorum. Temiz, sürdürülebilir kod yazmaya önem veriyor; projelerimde **SOLID, Clean Code, CQRS ve DDD** prensiplerini uyguluyorum.
+I build enterprise ERP solutions, reporting systems and scalable web applications. I focus on clean, maintainable code and apply **SOLID, Clean Code, CQRS and DDD** principles in my projects.
 
-## Teknolojiler
+## Tech Stack
 
 **Backend:** C#, .NET Core / Web API, EF Core, Dapper  
 **Frontend:** Angular, TypeScript, JavaScript, Vue.js  
-**Veritabanı:** SQL Server  
-**Araçlar:** Git, Visual Studio, Postman, IIS
+**Database:** SQL Server  
+**Tools:** Git, Visual Studio, Postman, IIS
 
-## Öne Çıkan Projeler
+## Featured Projects
 
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| **FasOn** | Tekstil fason üretim, atölye ve sevkiyat takibi için ERP | .NET API, Angular, SQL Server |
-| **İşçi Performans Ölçüm** | Üretim sahası verimlilik analizi ve yönetim raporlaması | CQRS, DDD, SQL Server |
-| **Etiket Yönetim Sistemi** | Legacy Delphi sisteminin .NET ve Angular'a taşınması | .NET API, Angular |
-| **Set24** | Spor okulları için öğrenci, yoklama ve aidat yönetimi | .NET Core, Vue.js, EF Core |
-| **Hospital AR Navigation** | Hastane içi AR navigasyon prototipi | WebXR, Three.js |
+| Project | Description | Tech |
+|---------|-------------|------|
+| **FasOn** | ERP for textile subcontract manufacturing: production, workshop and shipment tracking | .NET API, Angular, SQL Server |
+| **Coco B2B** | B2B platform for dealer orders, product catalog and customer management | .NET API, Angular, SQL Server |
+| **Verihane Reporting System** | Data-driven reporting and analytics platform for management decision-making | .NET, CQRS, DDD, SQL Server |
+| **Hospital AR Navigation** | Augmented reality indoor navigation prototype for hospitals | WebXR, Three.js |
 
-## İletişim
+## Contact
 
 [LinkedIn](https://linkedin.com/in/arda-can-süren-52605a314) · [GitHub](https://github.com/Ardaa24)
